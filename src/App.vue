@@ -39,7 +39,7 @@
 import { ref } from 'vue'
 const base = import.meta.env.VITE_API_BASE
 
-const to = ref('tu-correo@ejemplo.com')
+const to = ref('mark-tec-v1@outlook.com')
 const subject = ref('Hola desde la POC')
 const text = ref('Funciona 🔥')
 const loading = ref(false)
